@@ -1,0 +1,10 @@
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\bin\Debug\ameenaMid2.exe.config
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\bin\Debug\ameenaMid2.exe
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\bin\Debug\ameenaMid2.pdb
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.csprojResolveAssemblyReference.cache
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.Properties.Resources.resources
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.csproj.GenerateResource.Cache
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.csproj.CoreCompileInputs.cache
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.exe
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.pdb
+C:\Users\ameen\Desktop\ameenaMid2\ameenaMid2\obj\Debug\ameenaMid2.Form1.resources
